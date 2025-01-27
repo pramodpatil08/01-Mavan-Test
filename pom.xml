@@ -27,5 +27,11 @@
         <version>5.2.22.Release</version>
 </dependency>
 
+<dependency>
+        <groupId>org.springframwork</groupId>
+        <artifactId>Spring-JDBC</artifactId>
+        <version>5.2.22.Release</version>
+</dependency>
+
   </dependencies>
 </project>
